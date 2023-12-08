@@ -20,7 +20,7 @@
   <div align="center"></div>
 </p>
 
-We release the code of the paper <a href="https://arxiv.org/abs/2308.11441">Differentiable Registration of Images and LiDAR Point Clouds with VoxelPoint-to-Pixel Matching</a> in this repository.
+We release the code of the paper <a href="https://arxiv.org/abs/2312.04060">Differentiable Registration of Images and LiDAR Point Clouds with VoxelPoint-to-Pixel Matching</a> in this repository.
 
 ## Overview
 <p align="center">
@@ -105,3 +105,11 @@ For training VP2P-Match, you should first prepare the training data of KITTI dat
 
 ## Citation
 If you find our code or paper useful, please consider citing
+
+
+    @inproceedings{Zhou2023VP2P,
+        title = {Differentiable Registration of Images and LiDAR Point Clouds with VoxelPoint-to-Pixel Matching},
+        author = {Zhou, Junsheng and Ma, Baorui and Zhang, Wenyuan and Fang, Yi and Liu, Yu-Shen and Han, Zhizhong},
+        booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+        year = {2023}
+    }
